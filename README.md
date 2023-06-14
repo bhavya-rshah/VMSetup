@@ -1,6 +1,6 @@
 # VMSetup
 
-#Assignment 1 from ACIT 4640 project from BCIT CIT program
+#Assignment 1 from ACIT 4640 project taken in the Winter 2019 term from BCIT's Computer Information Technology (CIT) program
 #the site where the original VM images in the code are hosted is no longer up and therefore would need to be modified with new or your own VM images
 
 The VM Set up was an assignment to demonstrate the skills of Infrastructure as Code. By managing infrastructure through programmable scripts we worked to set up a fresh VM
